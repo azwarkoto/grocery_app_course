@@ -59,18 +59,7 @@
      </kbd>
   </a>
   
-   <a href="">
-     <kbd>
-       
-        <br>
-        <font size="1">Wacth app overview</font>
-        <br><br>
-     </kbd>
-  </a>
-</p>
-<hr>
-<h3>
-  <a href="">
+  
     👨‍🏫 Udemy courses by me
   </a>
 </h3>
